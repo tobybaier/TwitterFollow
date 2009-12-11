@@ -1,4 +1,4 @@
-package com.coremedia.contribution;
+package de.isolation.twitterfollow;
 
 import net.unto.twitter.Api;
 import net.unto.twitter.TwitterProtos;
